@@ -1,0 +1,8 @@
+# Ignore the .idea directory
+
+.idea/.gitignore
+.idea/Python_Learning_Adventures.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
